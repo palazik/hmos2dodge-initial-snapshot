@@ -1,0 +1,23 @@
+# Keep this source repository separate from the local firmware workspace.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/LICENSES/
+!/NOTICE.md
+!/AGENTS.md
+!/port/
+__pycache__/
+*.py[cod]
+*.img
+*.zip
+*.rar
+*.gz
+*.xz
+*.so
+*.a
+*.o
+*.pem
+*.key
+*.avbpubkey
+
